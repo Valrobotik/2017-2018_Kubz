@@ -1,6 +1,6 @@
 /* Cage_stepper_servo_automaton
 
-    by Corentin Bazille <corentin.bazille@outlook.com>
+    by Corentin Bazille
     Upload this code to an Arduino UNO following the pin connection diagram.
 
     File created 08th May, 2018.
