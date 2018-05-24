@@ -1,6 +1,6 @@
 /* Human_Interface_Controller
 
-    by Corentin Bazille <corentin.bazille@outlook.com>
+    by Corentin Bazille
     Upload this code to an Arduino UNO following the pin connection diagram.
 
     File created 07th May, 2018.
